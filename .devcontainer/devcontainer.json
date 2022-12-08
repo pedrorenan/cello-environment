@@ -4,8 +4,10 @@
 	"name": "CELLO Environment",
 	"build": {
 		"dockerfile": "Dockerfile"
-	}
-
+	},
+	"extensions": [
+		"JuanBlanco.solidity"
+	]
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
 
