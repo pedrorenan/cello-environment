@@ -1,4 +1,4 @@
-# Cello Environmnent
+# Cello Environment
 
 Esse ambiente contém Node, TypeScript, Truffle e celocli.
 
